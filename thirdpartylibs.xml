@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>classes/ConsoleTable.php</location>
+        <name>PHPLucidFrame\Console</name>
+        <license>MIT</license>
+    </library>
+</libraries>
